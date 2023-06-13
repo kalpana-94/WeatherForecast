@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WeatherForecast</string>
+    <string name="btn_cancel">Cancel</string>
+    <string name="btn_ok">Ok</string>
+    <string name="permission_title">Permission Required</string>
+    <string name="weather_api_key">7b7bd76041b026df0bc79eefd11eabc5</string>
+    <string name="error_check_internet">Oops! Something went wrong</string>
+</resources>
